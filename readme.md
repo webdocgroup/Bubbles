@@ -27,4 +27,4 @@ import Bubbles from './Bubbles';
 
 
 ## Roadmap
-- Generate unique ID for the canvas everytime
+- Generate unique ID for the canvas everytime 
